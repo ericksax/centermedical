@@ -1,0 +1,53 @@
+:root {
+  --background2: #f4f5f5;
+  --background: #fdfdfd;
+  --background3: #ffffff;
+
+  --brand-color: #bbd147;
+  --brand-color2: #7c91c8;
+
+  --background4: #cce1eb;
+
+  --text-color2: #ffffff;
+  --text-color: #3a3a3a;
+
+  --subtext-color2: #727272;
+  --subtext-color: #868686;
+
+  --border-color: #c9c9c9;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 13px;
+}
+
+body {
+  font-family: "Red Hat Display", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--background);
+}
+
+ul {
+  list-style: none;
+}
+
+button,
+input[type="submit"] {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: inherit;
+  font-size: inherit;
+}

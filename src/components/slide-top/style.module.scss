@@ -1,0 +1,33 @@
+.container {
+  z-index: -1;
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.content {
+  position: relative;
+  height: 300px;
+  margin: 0 auto;
+
+  img {
+    height: 100%;
+    width: 1280px;
+    z-index: -1;
+  }
+}
+
+.arrowLeft {
+  position: absolute;
+  top: calc(50% - 30px);
+  left: 5px;
+
+  z-index: 4;
+}
+.arrowRight {
+  padding: 0;
+  position: absolute;
+  top: calc(50% - 30px);
+  right: 5px;
+  z-index: 4;
+}

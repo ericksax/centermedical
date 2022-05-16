@@ -1,0 +1,152 @@
+{
+  "imagesCards": [
+    {
+      "id": 0,
+      "url": "./src/assets/logoAACD.png"
+    },
+    {
+      "id": 1,
+      "url": "./src/assets/apae.png"
+    },
+    {
+      "id": 2,
+      "url": "./src/assets/safra.png"
+    },
+    {
+      "id": 3,
+      "url": "./src/assets/santa catarina.png"
+    },
+    {
+      "id": 4,
+      "url": "./src/assets/caedu.png"
+    },
+    {
+      "id": 5,
+      "url": "./src/assets/carrefour.png"
+    },
+    {
+      "id": 6,
+      "url": "./src/assets/logoAACD.png"
+    }
+  ],
+
+  "imagesCards2": [
+    {
+      "id": 0,
+      "url": "./src/assets/mikatos.png"
+    },
+    {
+      "id": 1,
+      "url": "./src/assets/techline.png"
+    },
+    {
+      "id": 2,
+      "url": "./src/assets/supermedy.png"
+    },
+    {
+      "id": 3,
+      "url": "./src/assets/ecafix.png"
+    },
+    {
+      "id": 4,
+      "url": "./src/assets/cristófoli.png"
+    },
+    {
+      "id": 5,
+      "url": "./src/assets/welmy.png"
+    },
+    {
+      "id": 6,
+      "url": "./src/assets/techline.png"
+    }
+  ],
+
+  "squareCardsData": [
+    {
+      "marca": "Marca do produto",
+      "description": "Cadeira de Rodas em Aço - Ortopedia Jaguaribe - 100900 - Pneu Maciço",
+      "oldPrice": "R$ 899.99",
+      "promoPrice": "R$ 558.60",
+      "parcels": "ou 6x de R$ 93,10"
+    },
+    {
+      "marca": "Marca do produto",
+      "description": "Cadeira de Rodas em Aço - Ortopedia Jaguaribe - 100900 - Pneu Maciço",
+      "oldPrice": "R$ 899.99",
+      "promoPrice": "R$ 558.60",
+      "parcels": "ou 6x de R$ 93,10"
+    },
+    {
+      "marca": "Marca do produto",
+      "description": "Cadeira de Rodas em Aço - Ortopedia Jaguaribe - 100900 - Pneu Maciço",
+      "oldPrice": "R$ 899.99",
+      "promoPrice": "R$ 558.60",
+      "parcels": "ou 6x de R$ 93,10"
+    },
+    {
+      "marca": "Marca do produto",
+      "description": "Cadeira de Rodas em Aço - Ortopedia Jaguaribe - 100900 - Pneu Maciço",
+      "oldPrice": "R$ 899.99",
+      "promoPrice": "R$ 558.60",
+      "parcels": "ou 6x de R$ 93,10"
+    },
+    {
+      "marca": "Marca do produto",
+      "description": "Cadeira de Rodas em Aço - Ortopedia Jaguaribe - 100900 - Pneu Maciço",
+      "oldPrice": "R$ 899.99",
+      "promoPrice": "R$ 558.60",
+      "parcels": "ou 6x de R$ 93,10"
+    },
+    {
+      "marca": "Marca do produto",
+      "description": "Cadeira de Rodas em Aço - Ortopedia Jaguaribe - 100900 - Pneu Maciço",
+      "oldPrice": "R$ 899.99",
+      "promoPrice": "R$ 588.60",
+      "parcels": "ou 6x de R$ 93,10"
+    }
+  ],
+
+  "articles": [
+    {
+      "id": "0",
+      "hash": "#saúde",
+      "title": "Título para artigo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacus, fringilla eleifend sed. Venenatis sed ac congue odio. Orci elit euismod sit viverra mollis sit magna sagittis. Malesuada cras suscipit sed pulvinar dolor vestibulum in...",
+      "imgUrl": "./src/assets/Rectangle 190.png"
+    },
+    {
+      "id": "1",
+      "hash": "#saúde",
+      "title": "Título para artigo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacus, fringilla eleifend sed. Venenatis sed ac congue odio. Orci elit euismod sit viverra mollis sit magna sagittis. Malesuada cras suscipit sed pulvinar dolor vestibulum in...",
+      "imgUrl": "./src/assets/Rectangle 191.png"
+    },
+    {
+      "id": "2",
+      "hash": "#saúde",
+      "title": "Título para artigo",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacus, fringilla eleifend sed. Venenatis sed ac congue odio. Orci elit euismod sit viverra mollis sit magna sagittis. Malesuada cras suscipit sed pulvinar dolor vestibulum in...",
+      "imgUrl": "./src/assets/Rectangle 192.png"
+    }
+  ],
+  "depoiments": [
+    {
+      "id": "0",
+      "name": "Luana Alves",
+      "position": "CEO Banco Safra",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus mauris morbi ac, posuere senectus diam a. Tristique mattis eros, id quisque purus facilisis lectus feugiat. Iaculis est egestas amet, nunc eget."
+    },
+    {
+      "id": "1",
+      "name": "Luana Alves",
+      "position": "CEO Banco Safra",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus mauris morbi ac, posuere senectus diam a. Tristique mattis eros, id quisque purus facilisis lectus feugiat. Iaculis est egestas amet, nunc eget."
+    },
+    {
+      "id": "2",
+      "name": "Luana Alves",
+      "position": "CEO Banco Safra",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tellus mauris morbi ac, posuere senectus diam a. Tristique mattis eros, id quisque purus facilisis lectus feugiat. Iaculis est egestas amet, nunc eget."
+    }
+  ]
+}

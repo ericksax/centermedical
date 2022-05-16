@@ -1,0 +1,137 @@
+.container {
+  position: sticky;
+  top: 0;
+  background: var(--background3);
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  height: 162px;
+  z-index: 5;
+
+  .content {
+    height: 130px;
+    box-shadow: 0px 18px 20px -24px rgba(0, 0, 0, 0.8);
+  }
+
+  .top-contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 32px;
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+    background: var(--brand-color2);
+    color: var(--background);
+
+    span {
+      font-weight: 700;
+    }
+  }
+
+  .top-text {
+    margin-left: 9.67px;
+    margin-right: 3px;
+  }
+
+  .header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 40px;
+
+    input {
+      background: var(--background2);
+      width: 475px;
+      height: 40px;
+      border: none;
+      padding: 0 16px;
+      border-radius: 20px;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+      position: relative;
+    }
+
+    section {
+      display: flex;
+      justify-content: center;
+      line-height: 14.3px;
+      align-items: center;
+    }
+
+    .elipse {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 40px;
+      width: 40px;
+      border-radius: 50%;
+      background: var(--background2);
+      margin-right: 5px;
+
+      img {
+        height: 20px;
+      }
+    }
+
+    .elipse-container {
+      p {
+        font-size: 13px;
+      }
+    }
+
+    .elipse-container-medium {
+      span {
+        font-weight: bold;
+        color: #687daa;
+      }
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .input-search {
+      position: relative;
+      width: 475px;
+      height: 40px;
+      border: none;
+      border-radius: 20px;
+
+      img {
+        height: 16px;
+        position: absolute;
+        top: 50%;
+        transform: translateY(-40%);
+        right: 20px;
+      }
+    }
+  }
+
+  .header-nav {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1280px;
+
+    ul {
+      padding: 0 40px;
+      margin: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      max-width: 1280px;
+
+      li {
+        font-size: 13px;
+
+        img {
+          margin-right: 11px;
+        }
+      }
+      .activated {
+        color: var(--brand-color);
+        font-weight: 700;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      }
+    }
+  }
+}

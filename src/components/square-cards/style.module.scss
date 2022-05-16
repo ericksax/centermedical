@@ -1,0 +1,77 @@
+.container {
+  height: 480px;
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+
+.content {
+  padding: 16px;
+  margin: 10px 10px;
+  max-width: 254px;
+  height: 436px;
+  background: var(background3);
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+
+  .marca {
+    color: var(--text-color);
+    font-size: 12px;
+    line-height: 18px;
+  }
+
+  .description {
+    color: var(--text-color);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 8px;
+  }
+
+  .content-price {
+    line-height: 8px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+  }
+
+  .intire-price {
+    color: var(--text-color);
+    font-weight: 400;
+    font-size: 12px;
+
+    text-decoration: line-through;
+  }
+
+  .promo-price {
+    color: var(--brand-color);
+    font-weight: 900;
+    font-size: 19px;
+  }
+
+  .promo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 14px;
+    height: 29px;
+  }
+
+  .parcels {
+    font-size: 12px;
+  }
+
+  .sell-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: var(--brand-color);
+    color: var(--text-color2);
+    font-weight: 700;
+    line-height: 18.72px;
+    width: 100%;
+    height: 44px;
+    border: none;
+    border-radius: 22px;
+  }
+}
